@@ -1,0 +1,7 @@
+.landing-container {
+  @apply bg-base-200 flex min-h-screen w-full flex-col items-center justify-center gap-8;
+}
+
+.landing-result {
+  @apply flex flex-col;
+}

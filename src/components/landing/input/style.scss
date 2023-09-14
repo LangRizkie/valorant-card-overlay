@@ -1,0 +1,11 @@
+.input-container {
+  @apply flex max-w-xs;
+}
+
+.input-wrapper {
+  @apply flex flex-col;
+}
+
+.input-id-tag {
+  @apply flex max-w-xs items-center gap-4;
+}

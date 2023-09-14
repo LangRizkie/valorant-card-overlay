@@ -1,0 +1,19 @@
+.card-container {
+  @apply relative flex w-fit max-w-[452px] flex-col;
+}
+
+.card-background {
+  @apply relative w-full;
+}
+
+.card-content {
+  @apply absolute top-0 flex h-full w-full items-center p-4;
+}
+
+.card-description {
+  @apply flex w-full justify-between bg-slate-950 p-2 text-sm text-white;
+}
+
+.card-detail {
+  @apply flex gap-4 text-sm text-white;
+}
